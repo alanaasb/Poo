@@ -1,0 +1,5 @@
+public abstract class NavagadorInternet {
+public abstract void iniciarPesquisa (String url);
+public abstract void inserirNovaGuia();
+public abstract void atualizarGuia();
+}

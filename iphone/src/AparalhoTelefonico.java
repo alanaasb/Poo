@@ -1,0 +1,8 @@
+public abstract class AparalhoTelefonico {
+    public abstract void discar(String contato);
+    public abstract void atender();
+    public abstract void desligarChamada();
+    public  abstract void iniciarCaixaPostal();
+
+
+}
